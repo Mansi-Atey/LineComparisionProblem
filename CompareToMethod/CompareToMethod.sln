@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityOfLine", "EqualityOfLine\EqualityOfLine.csproj", "{0722ECEE-E5EB-43F6-858E-3ADB09F0A5E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareToMethod", "CompareToMethod\CompareToMethod.csproj", "{09F9C579-79B0-4C05-A1C8-1298CC61B7B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0722ECEE-E5EB-43F6-858E-3ADB09F0A5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0722ECEE-E5EB-43F6-858E-3ADB09F0A5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0722ECEE-E5EB-43F6-858E-3ADB09F0A5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0722ECEE-E5EB-43F6-858E-3ADB09F0A5E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F9C579-79B0-4C05-A1C8-1298CC61B7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F9C579-79B0-4C05-A1C8-1298CC61B7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F9C579-79B0-4C05-A1C8-1298CC61B7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F9C579-79B0-4C05-A1C8-1298CC61B7B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3F85BE04-7988-4DA0-B627-CE156B6886C4}
+		SolutionGuid = {E71D8B22-9E3A-4A15-B17C-F224CCD3DA99}
 	EndGlobalSection
 EndGlobal
